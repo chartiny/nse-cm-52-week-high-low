@@ -1,0 +1,16 @@
+
+
+
+| SYMBOL | SERIES | Adjusted 52 Week High | 52 Week High Date | Adjusted 52 Week Low | 52 Week Low DT |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| ABSLBANETF | EQ | 330.00 | 19-NOV-2019 | 161.21 | 25-MAR-2020 |
+| ABSLNN50ET | EQ | 340.00 | 13-JAN-2020 | 193.00 | 23-MAR-2020 |
+| AXISGOLD | EQ | 53.20 | 28-JUL-2020 | 32.87 | 26-NOV-2019 |
+| AXISNIFTY | EQ | 140.00 | 27-AUG-2020 | 82.10 | 23-MAR-2020 |
+| BANKBEES | EQ | 332.95 | 02-JAN-2020 | 169.55 | 24-MAR-2020 |
+| BSLGOLDETF | EQ | 5445.00 | 07-AUG-2020 | 3414.00 | 23-MAR-2020 |
+| BSLNIFTY | EQ | 138.00 | 15-OCT-2020 | 85.27 | 23-MAR-2020 |
+| CPSEETF | EQ | 25.11 | 04-NOV-2019 | 11.54 | 23-MAR-2020 |
+
+
+
