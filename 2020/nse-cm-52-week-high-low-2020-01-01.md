@@ -1,0 +1,18 @@
+
+
+
+| SYMBOL | SERIES | Adjusted 52_Week_High | 52_Week_High_Date | Adjusted 52_Week_Low | 52_Week_Low_DT |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| 20MICRONS | EQ | 45.95 | 02-JAN-2019 | 30.70 | 23-AUG-2019 |
+| 21STCENMGM | EQ | 24.95 | 22-APR-2019 | 12.00 | 20-SEP-2019 |
+| 3IINFOTECH | EQ | 4.55 | 22-APR-2019 | 1.55 | 23-AUG-2019 |
+| 3MINDIA | EQ | 25439.95 | 16-APR-2019 | 16749.95 | 16-SEP-2019 |
+| 3PLAND | EQ | 13.70 | 04-FEB-2019 | 5.25 | 22-AUG-2019 |
+| 5PAISA | EQ | 270.00 | 29-MAY-2019 | 120.80 | 23-AUG-2019 |
+| 63MOONS | EQ | 184.75 | 10-MAY-2019 | 70.85 | 18-FEB-2019 |
+| A2ZINFRA | EQ | 19.70 | 19-MAR-2019 | 7.15 | 18-DEC-2019 |
+| AARTIDRUGS | EQ | 707.00 | 11-MAR-2019 | 427.00 | 05-AUG-2019 |
+| AARTIIND | EQ | 949.50 | 28-MAY-2019 | 650.00 | 20-FEB-2019 |
+
+
+
