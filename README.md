@@ -1,5 +1,5 @@
 
-# /home/napoleon/Downloads/data/chartiny/nse/nse-cm-52-week-high-low
+# nse-cm-52-week-high-low
 
 ## June 2024
 
