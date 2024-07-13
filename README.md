@@ -1,6 +1,23 @@
 
 # nse-cm-52-week-high-low
 
+## July 2024
+
+| Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- |
+| 2024-07-01 | Monday     | [CSV](2024/nse-cm-52-week-high-low-2024-07-01.csv) (148 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-01.md) (135 kB) |
+| 2024-07-02 | Tuesday    | [CSV](2024/nse-cm-52-week-high-low-2024-07-02.csv) (152 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-02.md) (139 kB) |
+| 2024-07-03 | Wednesday  | [CSV](2024/nse-cm-52-week-high-low-2024-07-03.csv) (149 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-03.md) (136 kB) |
+| 2024-07-04 | Thursday   | [CSV](2024/nse-cm-52-week-high-low-2024-07-04.csv) (150 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-04.md) (137 kB) |
+| 2024-07-05 | Friday     | [CSV](2024/nse-cm-52-week-high-low-2024-07-05.csv) (149 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-05.md) (136 kB) |
+| 2024-07-08 | Monday     | [CSV](2024/nse-cm-52-week-high-low-2024-07-08.csv) (149 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-08.md) (136 kB) |
+| 2024-07-09 | Tuesday    | [CSV](2024/nse-cm-52-week-high-low-2024-07-09.csv) (148 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-09.md) (134 kB) |
+| 2024-07-10 | Wednesday  | [CSV](2024/nse-cm-52-week-high-low-2024-07-10.csv) (146 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-10.md) (132 kB) |
+| 2024-07-11 | Thursday   | [CSV](2024/nse-cm-52-week-high-low-2024-07-11.csv) (148 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-11.md) (135 kB) |
+| 2024-07-12 | Friday     | [CSV](2024/nse-cm-52-week-high-low-2024-07-12.csv) (149 kB) | [MD](2024/nse-cm-52-week-high-low-2024-07-12.md) (136 kB) |
+
+
+
 ## June 2024
 
 | Date | Day | CSV | Markdown |
