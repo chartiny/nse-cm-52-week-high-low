@@ -18,6 +18,7 @@
 | 11 | 2024-07-15 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-07-15.csv)<br>148 kB | [MD](2024/nse-cm-52-week-high-low-2024-07-15.md)<br>135 kB |
 | 12 | 2024-07-16 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-07-16.csv)<br>151 kB | [MD](2024/nse-cm-52-week-high-low-2024-07-16.md)<br>138 kB |
 | 13 | 2024-07-18 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-07-18.csv)<br>148 kB | [MD](2024/nse-cm-52-week-high-low-2024-07-18.md)<br>135 kB |
+| 14 | 2024-07-19 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-07-19.csv)<br>148 kB | [MD](2024/nse-cm-52-week-high-low-2024-07-19.md)<br>135 kB |
 
 
 
