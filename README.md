@@ -1,6 +1,18 @@
 
 # nse-cm-52-week-high-low
 
+## September 2024
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2024-09-02 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-09-02.csv)<br>150 kB | [MD](2024/nse-cm-52-week-high-low-2024-09-02.md)<br>137 kB |
+| 2 | 2024-09-03 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-09-03.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-09-03.md)<br>140 kB |
+| 3 | 2024-09-04 | Wednesday | [CSV](2024/nse-cm-52-week-high-low-2024-09-04.csv)<br>151 kB | [MD](2024/nse-cm-52-week-high-low-2024-09-04.md)<br>138 kB |
+| 4 | 2024-09-05 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-09-05.csv)<br>151 kB | [MD](2024/nse-cm-52-week-high-low-2024-09-05.md)<br>138 kB |
+| 5 | 2024-09-06 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-09-06.csv)<br>151 kB | [MD](2024/nse-cm-52-week-high-low-2024-09-06.md)<br>138 kB |
+
+
+
 ## August 2024
 
 | No | Date | Day | CSV | Markdown |
