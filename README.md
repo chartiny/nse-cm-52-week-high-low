@@ -18,6 +18,11 @@
 | 11 | 2024-10-16 | Wednesday | [CSV](2024/nse-cm-52-week-high-low-2024-10-16.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-16.md)<br>140 kB |
 | 12 | 2024-10-17 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-10-17.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-17.md)<br>140 kB |
 | 13 | 2024-10-18 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-10-18.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-18.md)<br>140 kB |
+| 14 | 2024-10-21 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-10-21.csv)<br>152 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-21.md)<br>139 kB |
+| 15 | 2024-10-22 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-10-22.csv)<br>156 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-22.md)<br>142 kB |
+| 16 | 2024-10-23 | Wednesday | [CSV](2024/nse-cm-52-week-high-low-2024-10-23.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-23.md)<br>140 kB |
+| 17 | 2024-10-24 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-10-24.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-24.md)<br>140 kB |
+| 18 | 2024-10-25 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-10-25.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-10-25.md)<br>140 kB |
 
 
 
