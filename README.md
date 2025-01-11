@@ -1,6 +1,21 @@
 
 # nse-cm-52-week-high-low
 
+## January 2025
+
+| No | Date | Day | CSV | Markdown |
+| ---- | ---- | ---- | ---- | ---- |
+| 1 | 2025-01-01 | Wednesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-01.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-01.md)<br>141 kB |
+| 2 | 2025-01-02 | Thursday | [CSV](2025/nse-cm-52-week-high-low-2025-01-02.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-02.md)<br>142 kB |
+| 3 | 2025-01-03 | Friday | [CSV](2025/nse-cm-52-week-high-low-2025-01-03.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-03.md)<br>142 kB |
+| 4 | 2025-01-06 | Monday | [CSV](2025/nse-cm-52-week-high-low-2025-01-06.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-06.md)<br>141 kB |
+| 5 | 2025-01-07 | Tuesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-07.csv)<br>157 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-07.md)<br>144 kB |
+| 6 | 2025-01-08 | Wednesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-08.csv)<br>156 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-08.md)<br>142 kB |
+| 7 | 2025-01-09 | Thursday | [CSV](2025/nse-cm-52-week-high-low-2025-01-09.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-09.md)<br>141 kB |
+| 8 | 2025-01-10 | Friday | [CSV](2025/nse-cm-52-week-high-low-2025-01-10.csv)<br>155 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-10.md)<br>141 kB |
+
+
+
 ## December 2024
 
 | No | Date | Day | CSV | Markdown |
@@ -15,6 +30,17 @@
 | 8 | 2024-12-11 | Wednesday | [CSV](2024/nse-cm-52-week-high-low-2024-12-11.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-11.md)<br>141 kB |
 | 9 | 2024-12-12 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-12-12.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-12.md)<br>140 kB |
 | 10 | 2024-12-13 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-12-13.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-13.md)<br>140 kB |
+| 11 | 2024-12-16 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-12-16.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-16.md)<br>140 kB |
+| 12 | 2024-12-17 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-12-17.csv)<br>156 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-17.md)<br>143 kB |
+| 13 | 2024-12-18 | Wednesday | [CSV](2024/nse-cm-52-week-high-low-2024-12-18.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-18.md)<br>141 kB |
+| 14 | 2024-12-19 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-12-19.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-19.md)<br>141 kB |
+| 15 | 2024-12-20 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-12-20.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-20.md)<br>141 kB |
+| 16 | 2024-12-23 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-12-23.csv)<br>153 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-23.md)<br>139 kB |
+| 17 | 2024-12-24 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-12-24.csv)<br>156 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-24.md)<br>142 kB |
+| 18 | 2024-12-26 | Thursday | [CSV](2024/nse-cm-52-week-high-low-2024-12-26.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-26.md)<br>140 kB |
+| 19 | 2024-12-27 | Friday | [CSV](2024/nse-cm-52-week-high-low-2024-12-27.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-27.md)<br>141 kB |
+| 20 | 2024-12-30 | Monday | [CSV](2024/nse-cm-52-week-high-low-2024-12-30.csv)<br>154 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-30.md)<br>141 kB |
+| 21 | 2024-12-31 | Tuesday | [CSV](2024/nse-cm-52-week-high-low-2024-12-31.csv)<br>157 kB | [MD](2024/nse-cm-52-week-high-low-2024-12-31.md)<br>144 kB |
 
 
 
