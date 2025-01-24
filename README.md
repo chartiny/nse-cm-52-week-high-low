@@ -18,6 +18,11 @@
 | 11 | 2025-01-15 | Wednesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-15.csv)<br>156 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-15.md)<br>142 kB |
 | 12 | 2025-01-16 | Thursday | [CSV](2025/nse-cm-52-week-high-low-2025-01-16.csv)<br>156 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-16.md)<br>142 kB |
 | 13 | 2025-01-17 | Friday | [CSV](2025/nse-cm-52-week-high-low-2025-01-17.csv)<br>156 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-17.md)<br>142 kB |
+| 14 | 2025-01-20 | Monday | [CSV](2025/nse-cm-52-week-high-low-2025-01-20.csv)<br>156 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-20.md)<br>143 kB |
+| 15 | 2025-01-21 | Tuesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-21.csv)<br>161 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-21.md)<br>147 kB |
+| 16 | 2025-01-22 | Wednesday | [CSV](2025/nse-cm-52-week-high-low-2025-01-22.csv)<br>158 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-22.md)<br>145 kB |
+| 17 | 2025-01-23 | Thursday | [CSV](2025/nse-cm-52-week-high-low-2025-01-23.csv)<br>158 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-23.md)<br>144 kB |
+| 18 | 2025-01-24 | Friday | [CSV](2025/nse-cm-52-week-high-low-2025-01-24.csv)<br>157 kB | [MD](2025/nse-cm-52-week-high-low-2025-01-24.md)<br>144 kB |
 
 
 
